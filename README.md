@@ -16,7 +16,7 @@
 * Run :
 ```bash
 $ composer update
-$ php artisan classroom:setup
+$ php artisan serve
 ```
 
 ## Usage
