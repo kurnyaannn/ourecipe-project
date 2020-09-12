@@ -23,6 +23,7 @@ so in case something happen which is won't... don't forget to update your Larave
 $ composer update
 $ php artisan key:generate
 $ php artisan storage:link
+$ php artisan migrate:fresh
 $ php artisan serve
 ```
 
