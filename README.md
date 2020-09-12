@@ -5,7 +5,12 @@
 ![Ourecipe](https://github.com/kurnyaannn/ourecipe-project/blob/master/public/ourecipe-home.png?raw=true)
 
 ## Description
-This project is using Laravel 8 with Jetstream and Livewire, so in case something happen which is won't... don't forget to update your Laravel installer.
+This project is built using :
+* Laravel 8 with Jetstream and Livewire
+* TailwindCSS for styling
+* AlpineJS for behaviour
+
+so in case something happen which is won't... don't forget to update your Laravel installer.
 
 ## Requirements
 * PHP 7+
