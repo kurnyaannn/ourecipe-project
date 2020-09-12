@@ -21,6 +21,8 @@ so in case something happen which is won't... don't forget to update your Larave
 * Run :
 ```bash
 $ composer update
+$ php artisan key:generate
+$ php artisan storage:link
 $ php artisan serve
 ```
 
