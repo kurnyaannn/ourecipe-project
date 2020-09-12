@@ -35,10 +35,10 @@ Just register and login
 - Create a new Pull Request
 
 ## Disclaimer
-This project is still under Development, still many standard features needs to be added. So if you find any kinds of bug just be patient.
+This project is still Under Development, still many standard features needs to be added. So if you find any kinds of bug just be patient.
 
 ## License
-As you can see Ouroom is under MIT License
+As you can see Ourecipe is under MIT License
 
 ## About the Author
 <a href="http://facebook.com/y21kurnia">Yayang Kurnia</a>
