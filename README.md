@@ -4,12 +4,12 @@
 
 ![Ourecipe](https://github.com/kurnyaannn/ourecipe-project/blob/master/public/ourecipe-home.png?raw=true)
 
+## Description
+This project is using Laravel 8 with Jetstream and Livewire, so in case something happen which is won't... don't forget to update your Laravel installer.
 
 ## Requirements
 * PHP 7+
 * NodeJS
-* Composer
-* Laravel 8 With Jetstream and Livewire installed
 
 ## Installation
 * Edit .env file according to your needs
@@ -28,6 +28,9 @@ Just register and login
 - Commit your changes (`git commit -am 'Add some feature'`)
 - Push to the branch (`git push origin my-new-feature`)
 - Create a new Pull Request
+
+## Disclaimer
+This project is still under Development, still many standard features needs to be added. So if you find any kinds of bug just be patient.
 
 ## License
 As you can see Ouroom is under MIT License
