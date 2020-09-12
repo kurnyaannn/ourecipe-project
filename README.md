@@ -10,7 +10,7 @@ This project is built using :
 * TailwindCSS for styling
 * AlpineJS for behaviour
 
-so in case something happen which is won't... don't forget to update your Laravel installer.
+so in case something happen which is won't... don't forget to update your Laravel installer first.
 
 ## Requirements
 * PHP 7+
