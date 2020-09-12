@@ -36,7 +36,8 @@ Just register and login
 
 ## Disclaimer
 This project is still Under Development, still many standard features needs to be added. So if you find any kinds of bug just be patient.
-And i DID NOT OWN any of the assets inside this project. Thanks to the Author.
+
+And i DID NOT OWN any of the assets used inside this project. Thanks to the Author.
 ## License
 As you can see Ourecipe is under MIT License
 
