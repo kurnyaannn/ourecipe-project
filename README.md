@@ -1,5 +1,5 @@
 <h1 align="center">Ourecipe</h1>
-<h4 align="center">Mysaffronapp Wannabe</h4>
+<h4 align="center">Cookingpad Wannabe</h4>
 
 
 ![Ourecipe](https://github.com/kurnyaannn/ourecipe-project/blob/master/public/ourecipe-home.png?raw=true)
