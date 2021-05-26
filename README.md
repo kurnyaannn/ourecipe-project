@@ -7,10 +7,8 @@
 ## Description
 This project is built using :
 * Laravel 8 with Jetstream and Livewire
-* TailwindCSS for styling
-* AlpineJS for behaviour
-
-so in case something happen which is won't... don't forget to update your Laravel installer first.
+* TailwindCSS
+* AlpineJS
 
 ## Requirements
 * PHP 7+
@@ -40,7 +38,6 @@ Just register and login
 ## Disclaimer
 This project is still Under Development, still many standard features needs to be added. So if you find any kinds of bug just be patient.
 
-And i DID NOT OWN any of the assets used inside this project. Thanks to the Author.
 ## License
 As you can see Ourecipe is under MIT License
 
