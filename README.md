@@ -2,7 +2,7 @@
 <h4 align="center">Cookingpad Wannabe</h4>
 
 
-![Ourecipe](https://github.com/kurnyaannn/ourecipe-project/blob/master/public/ourecipe-home.png?raw=true)
+![Ourecipe](https://github.com/kurnyaannn/ourecipe-project/blob/master/public/ourecipe-index.png?raw=true)
 
 ## Description
 This project is built using :
